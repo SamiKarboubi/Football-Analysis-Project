@@ -1,0 +1,8 @@
+*.avi
+*.pt
+*.ckpt
+*.weights
+*.h5
+output_videos/
+runs/
+training/
